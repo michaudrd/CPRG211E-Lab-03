@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\CPRG211E Lab 03 Part 2\CPRG211E Lab 03 Part 2\bin\Debug\net8.0\CPRG211E Lab 03 Part 2.exe
+C:\Users\micha\source\repos\CPRG211E Lab 03 Part 2\CPRG211E Lab 03 Part 2\bin\Debug\net8.0\CPRG211E Lab 03 Part 2.deps.json
+C:\Users\micha\source\repos\CPRG211E Lab 03 Part 2\CPRG211E Lab 03 Part 2\bin\Debug\net8.0\CPRG211E Lab 03 Part 2.runtimeconfig.json
+C:\Users\micha\source\repos\CPRG211E Lab 03 Part 2\CPRG211E Lab 03 Part 2\bin\Debug\net8.0\CPRG211E Lab 03 Part 2.dll
+C:\Users\micha\source\repos\CPRG211E Lab 03 Part 2\CPRG211E Lab 03 Part 2\bin\Debug\net8.0\CPRG211E Lab 03 Part 2.pdb
+C:\Users\micha\source\repos\CPRG211E Lab 03 Part 2\CPRG211E Lab 03 Part 2\obj\Debug\net8.0\CPRG211E Lab 03 Part 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\CPRG211E Lab 03 Part 2\CPRG211E Lab 03 Part 2\obj\Debug\net8.0\CPRG211E Lab 03 Part 2.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\CPRG211E Lab 03 Part 2\CPRG211E Lab 03 Part 2\obj\Debug\net8.0\CPRG211E Lab 03 Part 2.AssemblyInfo.cs
+C:\Users\micha\source\repos\CPRG211E Lab 03 Part 2\CPRG211E Lab 03 Part 2\obj\Debug\net8.0\CPRG211E Lab 03 Part 2.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\CPRG211E Lab 03 Part 2\CPRG211E Lab 03 Part 2\obj\Debug\net8.0\CPRG211E Lab 03 Part 2.dll
+C:\Users\micha\source\repos\CPRG211E Lab 03 Part 2\CPRG211E Lab 03 Part 2\obj\Debug\net8.0\refint\CPRG211E Lab 03 Part 2.dll
+C:\Users\micha\source\repos\CPRG211E Lab 03 Part 2\CPRG211E Lab 03 Part 2\obj\Debug\net8.0\CPRG211E Lab 03 Part 2.pdb
+C:\Users\micha\source\repos\CPRG211E Lab 03 Part 2\CPRG211E Lab 03 Part 2\obj\Debug\net8.0\CPRG211E Lab 03 Part 2.genruntimeconfig.cache
+C:\Users\micha\source\repos\CPRG211E Lab 03 Part 2\CPRG211E Lab 03 Part 2\obj\Debug\net8.0\ref\CPRG211E Lab 03 Part 2.dll
